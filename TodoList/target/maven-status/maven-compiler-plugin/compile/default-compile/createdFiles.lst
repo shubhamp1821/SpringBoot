@@ -1,0 +1,5 @@
+com\Technosignia\TodoList\Model\ToDo.class
+com\Technosignia\TodoList\TodoListApplication.class
+com\Technosignia\TodoList\Repo\IToDoRepo.class
+com\Technosignia\TodoList\Service\ToDoService.class
+com\Technosignia\TodoList\Controller\ToDoController.class
